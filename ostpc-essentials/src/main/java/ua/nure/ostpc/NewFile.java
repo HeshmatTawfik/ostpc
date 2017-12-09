@@ -6,6 +6,6 @@ public class NewFile {
 
         }
         public int dvid(int a , int b , int c){
-        return a/b-c;
+        return a+b-c;
     }
 }
