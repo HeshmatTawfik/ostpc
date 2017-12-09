@@ -5,7 +5,7 @@ public class NewFile {
        System.out.println(" just creating some files ");
 
         }
-        public int dvid(int a , int b , int c){
-        return a/b-c;
+        public int dvi2d(int a , int b , int c){
+        return a*b-c;
     }
 }
